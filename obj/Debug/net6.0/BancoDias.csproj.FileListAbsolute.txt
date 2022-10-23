@@ -1,0 +1,15 @@
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\bin\Debug\net6.0\BancoDias.exe
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\bin\Debug\net6.0\BancoDias.deps.json
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\bin\Debug\net6.0\BancoDias.runtimeconfig.json
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\bin\Debug\net6.0\BancoDias.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\bin\Debug\net6.0\BancoDias.pdb
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.csproj.AssemblyReference.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.AssemblyInfoInputs.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.AssemblyInfo.cs
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.csproj.CoreCompileInputs.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\refint\BancoDias.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.pdb
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\BancoDias.genruntimeconfig.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\BancoDias\obj\Debug\net6.0\ref\BancoDias.dll
